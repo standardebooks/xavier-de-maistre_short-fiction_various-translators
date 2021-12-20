@@ -17,3 +17,11 @@
 	font-variant: small-caps;
 	margin: 2em auto 1em auto;
 }
+
+.header + p{
+	text-indent: 0;
+}
+
+q{
+	font-style: italic;
+}
