@@ -10,3 +10,10 @@
 	text-align: center;
 	text-indent: 0;
 }
+
+.header{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+	margin: 2em auto 1em auto;
+}
