@@ -41,8 +41,9 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/62519</dc:source>
+		<dc:source>https://books.google.com/books?id=IUsXAAAAYAAJ</dc:source>
+		<dc:source>https://books.google.com/books?id=Ock_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
