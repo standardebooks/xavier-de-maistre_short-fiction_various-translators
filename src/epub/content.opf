@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/62519</dc:source>
 		<dc:source>https://books.google.com/books?id=IUsXAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=Ock_AQAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">John Andrews also included a translation of "A Journey Round My Room" in his volume, but the SE producer considered his translation to be inferior to Attwell's, so Attwell's was used instead. The headers were removed from Attwell's, and his dog's name was changed to match Attwell's translation, for consistency.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
