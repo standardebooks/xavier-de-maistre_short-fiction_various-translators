@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="a-journey-round-my-room.xhtml">
+		<ignore>
+			<code>s-038</code>
+			<reason>Matched text is a stylized prose ornament.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
