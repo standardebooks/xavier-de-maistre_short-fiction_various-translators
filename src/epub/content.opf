@@ -19,7 +19,6 @@
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
-		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -108,8 +107,14 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-journey-round-my-room.xhtml" id="a-journey-round-my-room.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-night-journey-round-my-room.xhtml" id="a-night-journey-round-my-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-leper-of-the-city-of-aosta.xhtml" id="the-leper-of-the-city-of-aosta.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prisoners-of-the-caucasus.xhtml" id="the-prisoners-of-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-young-siberian.xhtml" id="the-young-siberian.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -117,6 +122,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-journey-round-my-room.xhtml"/>
+		<itemref idref="a-night-journey-round-my-room.xhtml"/>
+		<itemref idref="the-leper-of-the-city-of-aosta.xhtml"/>
+		<itemref idref="the-prisoners-of-the-caucasus.xhtml"/>
+		<itemref idref="the-young-siberian.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
