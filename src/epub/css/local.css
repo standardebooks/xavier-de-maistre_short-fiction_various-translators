@@ -11,11 +11,12 @@
 	text-indent: 0;
 }
 
+blockquote header,
 .header{
 	text-align: center;
 	text-indent: 0;
 	font-variant: small-caps;
-	margin: 2em auto 1em auto;
+	margin-top: 1em;
 }
 
 .header + p{
