@@ -8,9 +8,9 @@
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
@@ -59,12 +59,12 @@
 		<dc:contributor id="translator-1">John Andrews</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Andrews, John</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
-		<meta property="se:role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Henry Attwell</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Attwell, Henry</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/nr2001038730</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<meta property="se:role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-3">H. C. Carey</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Carey, H. C.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-3">Henry Charles Carey</meta>
@@ -99,13 +99,13 @@
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
