@@ -2,6 +2,12 @@
 <se-lint-ignore>
 	<file path="a-journey-round-my-room.xhtml">
 		<ignore code="s-038">
+			<line>85</line>
+			<line>86</line>
+			<line>87</line>
+			<line>88</line>
+			<line>89</line>
+			<line>90</line>
 			<reason>Matched text is a stylized prose ornament.</reason>
 		</ignore>
 	</file>
