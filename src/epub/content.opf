@@ -36,7 +36,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Xavier de Maistre’s short fiction, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of Xavier de Maistre’s short fiction, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/xavier-de-maistre"&gt;Xavier de Maistre&lt;/a&gt; lived mostly as a military man, fighting in France and Russia around the turn of the 19th century. In 1790 a duel he participated in led him to be put under arrest in Turin; during his confinement in a tiny chamber, he wrote his most famous work, “A Journey Round My Room.”&lt;/p&gt;
 			&lt;p&gt;“Journey” is a short story written as a parody of the grand travelogues popular at the time. He frames his six weeks’ confinement as a long journey across the unknown land of his room, visiting the furniture, the paintings on the wall, and even venturing to the north side. De Maistre didn’t hold the work in very high regard, but after his brother had it published in 1794 it became a fast success, eventually calling for a sequel (“A Night Journey Round My Room”), and warranting allusions in fiction by writers like &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;W. Somerset Maugham&lt;/a&gt;, and Jorge Luis Borges.&lt;/p&gt;
