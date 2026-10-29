@@ -82,14 +82,15 @@
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Adolph Menzel</dc:contributor>
 		<meta property="file-as" refines="#artist">Menzel, Adolph</meta>
+		<meta property="schema:alternateName" refines="#artist">Adolph Friedrich Erdmann von Menzel</meta>
 		<link href="https://en.wikipedia.org/wiki/Adolph_Menzel" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50059021.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Chuck Grief</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Grief, Chuck</meta>
+		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
