@@ -71,7 +71,7 @@
 		<dc:contributor id="translator-3">H. C. Carey</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Carey, H. C.</meta>
 		<meta property="schema:alternateName" refines="#translator-3">Henry Charles Carey</meta>
-		<link href="https://en.wikipedia.org/wiki/H._C._Carey" refines="#translator-3" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Henry_Charles_Carey" refines="#translator-3" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50032408.html" refines="#translator-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">I. Lea</dc:contributor>
